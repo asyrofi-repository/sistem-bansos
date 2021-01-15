@@ -1,0 +1,28 @@
+/*
+Color Pallete 
+    White Blue  : #f4eeff
+    Soft Blue   : #dcd6f7
+    Bold Blue   : #a6b1e1
+    Dark Blue   : #424874
+*/
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-nav, .bg-bold-blue{
+    background-color: #a6b1e1;
+}
+
+.box-info{
+    min-height: 100vh;
+    background-color: #dcd6f7;
+}
+
+.bg-dark-blue{
+    background-color: #424874;
+}
+
+.bg-soft-blue{
+    background-color: #dcd6f7;
+}
